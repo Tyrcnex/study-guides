@@ -35,3 +35,19 @@ if the metal does not react, do not add it to the mass
 $$q_{metal}=-q_{h2o}$$
 
 when given the specific heat capacity of something other than water, for example ethanol, use that as qh2o instead of 
+
+
+
+
+
+
+
+
+
+
+
+not stable form of element has standard enthalpie of formation be a nonzero value
+
+hess's law
+
+reversing the reaction reverses the sign of the enthalpy 
