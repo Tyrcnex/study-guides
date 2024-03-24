@@ -5,8 +5,9 @@ import style from "./styles/contentMeta.scss"
 const defaultAuthor = "Tyrcnex"
 
 const ContentInfo: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const author = fileData.frontmatter?.author;
-  return <p class={classNames(displayClass, "content-meta")}>Author: {author ? author : defaultAuthor}</p>
+    const author = fileData.frontmatter?.author;
+    if (author && author.toString().toLowerCase() == 'none') return <></>;
+    return <p class={classNames(displayClass, "content-meta")}>Author: {author ? author : defaultAuthor}</p>
 }
 
 ContentInfo.css = `

@@ -44,7 +44,12 @@ when given the specific heat capacity of something other than water, for example
 
 
 
+# standard enthalpy
+if you've learned the enthalpy formula, it depends on a lot of variables that usually have to be measured experimentally. it's tedious to calculate the enthalpy by experimenting with the reaction every single time.
 
+this is why chemists use the standard enthalpy of formation, which allows us to calculate the enthalpy of a reaction based on some basic building blocks for enthalpy.
+
+it's like calculating the weight of a fruit bowl. you *could* put it on the scale to weigh it, but if you don't have a scale, you could note that an apple weighs 150g and a banana weighs 100g, and that there are 2 apples and 3 bananas, so you can calculate the weight by just adding the weights.
 
 not stable form of element has standard enthalpie of formation be a nonzero value
 
